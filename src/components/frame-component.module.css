@@ -1,0 +1,10 @@
+.topGroupWrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-47xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
